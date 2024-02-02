@@ -10,9 +10,10 @@
   
 </head>
 <body>
-    <main>
-        @yield('main-content')
-    </main>
+
     
+    <main>
+        @yield('content')
+    </main>
 </body>
 </html>
